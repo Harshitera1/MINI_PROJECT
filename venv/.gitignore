@@ -1,0 +1,5 @@
+# Ignore system files or unexpected folders
+*.log
+*.bak
+*.swp
+.DS_Store
